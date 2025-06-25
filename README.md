@@ -20,7 +20,8 @@ This project is an interactive HR Dashboard built in Microsoft Excel to visualiz
 - `README.md`: This documentation
 
 ## 📸 Screenshot
-*(Insert an image of your dashboard here using `![Alt Text](image_url)` if possible)*
+![HR Dashboard Screenshot](Dashboard.png)
+
 
 ## 👩‍💻 Author
 - **Rupal0912**
